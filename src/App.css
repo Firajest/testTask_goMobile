@@ -1,0 +1,4 @@
+.App-header, .intro {
+  display: flex;
+  justify-content: center;
+}

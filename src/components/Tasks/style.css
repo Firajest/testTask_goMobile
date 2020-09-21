@@ -1,0 +1,14 @@
+.dateColumn {
+  width: 14% !important;
+}
+.btnColumn, .idColumn {
+  width: 12% !important;
+  max-width: 20% !important;
+}
+.nameColumn {
+  width: 12% !important;
+  max-width: 20% !important;
+}
+.edit, .del {
+  margin: 1px !important;
+}
